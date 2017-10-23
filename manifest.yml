@@ -1,0 +1,6 @@
+---
+applications:
+- name: russ
+  memory: 518MB
+  instances: 1
+  buildpack: nodejs_buildpack
